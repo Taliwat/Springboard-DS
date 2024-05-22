@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+*.h5
+*.db
+.DS_Store
+output/
+build/
+dist/
+*.egg-info/
+*.log
+*.tmp
