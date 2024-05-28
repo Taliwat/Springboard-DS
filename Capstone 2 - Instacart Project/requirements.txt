@@ -4,5 +4,4 @@ matplotlib
 seaborn
 missingo
 scikit-learn
-scikit-surprise
 tensorflow
