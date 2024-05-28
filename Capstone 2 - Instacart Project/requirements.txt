@@ -1,7 +1,11 @@
 pandas
 numpy
-matplotlib
-seaborn
-missingo
+matplotlib==3.2
+seaborn==0.10.1
+missingno
 scikit-learn
-tensorflow
+xgboost
+scipy==1.4.1
+joblib==1.1.0
+visions==0.7.4
+imblearn
