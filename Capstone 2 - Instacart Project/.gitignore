@@ -4,7 +4,7 @@ __pycache__/
 .venv/
 env/
 venv/
-new_env/
+myenv/
 .ipynb_checkpoints/
 *.h5
 *.db
