@@ -4,8 +4,6 @@ matplotlib
 seaborn
 missingno
 scikit-learn
-xgboost
 scipy
-imbalanced-learn
 jupyter
 ipykernel
